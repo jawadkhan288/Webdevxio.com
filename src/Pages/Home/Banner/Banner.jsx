@@ -77,6 +77,7 @@ const Banner = () => {
       </svg> */}
 
       <div className=" bg-opacity-60"></div>
+      {/* hello */}
       <div className="flex flex-col backdrop px-20 lg:flex-row justify-around gap-10  text-neutral-content">
         <div className=" mt-16 w-1/2 ">
           <div className="">
